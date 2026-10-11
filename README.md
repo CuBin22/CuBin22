@@ -1,5 +1,5 @@
-# Hi!!!
+# Hi
 
-![CuBin22](img/fc1.png)
+![CuBin22](img/fc1.jpg)
 
 # Một Mình Cũng Vui!
