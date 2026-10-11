@@ -1,4 +1,4 @@
-# Hi
+# Hi I'm Phi 
 
 ![CuBin22](img/fc1.jpg)
 
